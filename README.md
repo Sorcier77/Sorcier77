@@ -1,8 +1,8 @@
 <div id="header" align="center">
   
   
-  <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Sorcier77.png" alt="TryHackMe Badge" width="200">
+  <div align="left">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/Sorcier77.png" alt="TryHackMe Badge" width="200">
 </div>
 <div>
 
