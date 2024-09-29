@@ -17,7 +17,7 @@ I am passionate about cybersecurity and a big fan of CTFs. Every day is a new op
 - 🇫🇷 Proud of my country and aspiring to serve in the French armed forces.
 - 🎓 Student at EPITA in Cybersecurity
 
-### 🛠️ Languages mastered
+### 🛠️ Programming languages mastered
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
