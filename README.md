@@ -34,5 +34,5 @@ Je suis passionné par la cybersécurité et un grand amateur de CTF. Chaque jou
 
 ### 👨‍🎓 Formation
 <div align="left">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ed_w6ppMCe47UAavwxrlWQHaEK%26pid%3DApi&f=1&ipt=ac0558d1ae125b97007dd1758038ccf724fded8ae615e6de43ab01d997fc9699&ipo=images" width="200"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ed_w6ppMCe47UAavwxrlWQHaEK%26pid%3DApi&f=1&ipt=ac0558d1ae125b97007dd1758038ccf724fded8ae615e6de43ab01d997fc9699&ipo=images" width="300"/>
 </div>
