@@ -2,6 +2,7 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Sorcier77.png" alt="Your Image Badge" />
 
+
 <h1>
   Welcome, enigmatic explorer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
