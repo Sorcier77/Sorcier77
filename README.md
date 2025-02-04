@@ -1,5 +1,6 @@
 [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-UserProfile-blue?logo=tryhackme)](https://tryhackme.com/p/Sorcier77)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Sorcier77.png" alt="Your Image Badge" />
 
 <h1>
   Welcome, enigmatic explorer
@@ -7,8 +8,6 @@
 </h1>
 
 ### 🔍 Who am I?
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Sorcier77.png" alt="Your Image Badge" />
 
 I am passionate about cybersecurity and a big fan of CTFs. Every day is a new opportunity to solve mysteries.
 
