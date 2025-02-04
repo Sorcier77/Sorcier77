@@ -14,6 +14,9 @@ I am passionate about cybersecurity and a big fan of CTFs. Every day is a new op
 - 🇫🇷 Proud of my country and aspiring to serve in the French armed forces.
 - 🎓 Student at EPITA in Cybersecurity
 
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Sorcier77.png" alt="Your Image Badge" />
+
+
 ### 🛠️ Programming languages mastered
 
 <div>
