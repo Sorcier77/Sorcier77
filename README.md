@@ -1,8 +1,4 @@
-<div id="header" align="center">
-  <div align="left">
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3528909" style='border:none;'></iframe>
-  </div>
-</div>
+![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-UserProfile-blue?logo=tryhackme&link=https://tryhackme.com/p/3528909)
 
 <h1>
   Welcome, enigmatic explorer
