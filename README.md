@@ -11,7 +11,7 @@
 I am passionate about cybersecurity and a big fan of CTFs. Every day is a new opportunity to solve mysteries.
 
 - 🕵️‍♂️ Always looking for new puzzles / CTFs to solve.
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Sorcier77.png" alt="Your Image Badge" />
+            <img src="https://tryhackme-badges.s3.amazonaws.com/Sorcier77.png" alt="Your Image Badge" />
 - 🇫🇷 Proud of my country and aspiring to serve in the French armed forces.
 - 🎓 Student at EPITA in Cybersecurity
 
